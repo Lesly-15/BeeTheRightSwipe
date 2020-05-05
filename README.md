@@ -8,9 +8,7 @@ This website was created just for fun. It started as a crazy idea during COVID-1
 Bumble, such as almost everything, works based on decisions; this website does it too, literally. This pretends to be a "path-book" with multiple endings depending on the decisions of the reader.
 
 ## Built With
-*Here
-*I'm adding
-*The tech I used to build it
+*JavaScript
 
 ## Authors
 
