@@ -12,4 +12,14 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
 
-  
+  // I will always start in the Card 01 where my story begins.
+  // If user swipes to the right it goes to Card 02
+
+  function rightBtn () {
+    window.alert("swipe to the right")
+  }
+
+  function leftBtn () {
+    window.alert("swipe to the left")
+  }
+
